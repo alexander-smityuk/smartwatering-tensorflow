@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/sanchosmit/PycharmProjects/tensorflowWatering/checkpoint/ckpt-1"
+all_model_checkpoint_paths: "/Users/sanchosmit/PycharmProjects/tensorflowWatering/checkpoint/ckpt-1"
